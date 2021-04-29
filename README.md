@@ -14,4 +14,11 @@ Im Folgenden wollen wir wissen, auf wie vielen Impfzentren zur gleichen Zeit gsu
 Dies macht das Programm auch so effizient.
 
 Sie werden nun einzeln nach den einzelnen Impfzentren gefragt [URL]
-Die URL hierfür finden Sie auf 'https://impfterminservice.de'
+Die URL hierfür finden Sie auf https://impfterminservice.de
+Wählen Sie hier Ihr Bundesland aus, danach Ihr Impfzentrum.
+Sie werden auf eine weitere Website weitergeleitet.
+Diese URL muss nun kopiert und in das Programm eingetragen werden.
+Beispiel: 
+
+Url des Ortes 1: https://002-iz.impfterminservice.de/impftermine/service?plz=70174
+
