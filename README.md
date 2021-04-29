@@ -8,9 +8,9 @@ Zur Verwendung das Paket herunterladen und die Ausführbare Datei mit doppelclic
 # Verwendung 
 Zu Beginn werden Sie nach dem Alter der aktuellen Person, nach der Sie prüfen, gefragt. \
 Dies hat den Sinn, dass Sie, falls Sie zu jung für den Impfstoff AstraZeneca sind, kein AstraZeneca vorgeschlagen bekommen. \
-(denn dieser ist seid dem Autreten von Hirnthrombosen unter 60 jähriger erst ab 60 Jahren zugelassen) 
+(denn dieser ist seit dem Auftreten von Hirnthrombosen unter 60 jähriger erst ab 60 Jahren zugelassen) 
 
-Im Folgenden wollen wir wissen, auf wie vielen Impfzentren zur gleichen Zeit gsucht werden soll. \
+Im Folgenden wollen wir wissen, auf wie vielen Impfzentren zur gleichen Zeit gesucht werden soll. \
 Dies macht das Programm auch so effizient.
 
 Sie werden nun einzeln nach den einzelnen Impfzentren gefragt [URL] \
@@ -32,9 +32,10 @@ Anzeigename Ort 2: Impfzentrum Stuttgart im Robert Bosch Krankenhaus
 
 Wenn Sie so weit sind, werden sich unterschiedlich viele Tabs öffnen (je nachdem, wie viele Impfzentren angegeben wurden). \
 Diese können Sie direkt minimieren, denn Sie bekommen Auskunft über den Status der Zentren in der Konsole, die sich zuvor geöffnet hat. \
-Ist nun ein Termin frei, wird Ihnen eine nachricht Ausgegeben "Impfstoff erhaeltlich!, \
-Impftermin frei [Ort]" und es ertönt ein Alarmton, den Sie mit der Taste ENTER "ENTER UM ALARM ZU STOPPEN" stoppen können. \
-Jetzt können Sie die Tabs wieder öffnen und im Tab, der den Alarm ausgelöst hat, sehen Sie nun ein Eigabefeld für eine E-Mail und eine Handynummer, 
+Ist nun ein Termin frei, wird Ihnen eine Nachricht ausgegeben "Impfstoff erhaeltlich!, \
+Impftermin frei [Ort]" und es ertönt ein Alarmton, den Sie mit der Taste ENTER "ENTER UM ALARM ZU STOPPEN" stoppen können. 
+
+Jetzt können Sie die Tabs wieder öffnen und im Tab, der den Alarm ausgelöst hat, sehen Sie nun ein Eingabefeld für eine E-Mail und eine Handynummer, 
 mit der Sie sich verifizieren müssen. Hier bekommen Sie einen Vermittlungscode, der zu dieser Zeit einen freien Termin bekommt. \
 Falls Sie sich nicht rechtzeitig mit dem Code einen Termin beschaffen konnten, werden Sie sicher einen späteren bekommen.
 
