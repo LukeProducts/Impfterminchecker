@@ -11,5 +11,7 @@ Dies hat den Sinn, dass Sie, falls Sie zu jung für den Impfstoff AstraZeneca si
 (denn dieser ist seid dem Autreten von Hirnthrombosen unter 60 jähriger erst ab 60 Jahren zugelassen)
 
 Im Folgenden wollen wir wissen, auf wie vielen Impfzentren zur gleichen Zeit gsucht werden soll.
-Sie werden nun einzeln nach den einzelnen Impfzentren gefragt [URL]
 Dies macht das Programm auch so effizient.
+
+Sie werden nun einzeln nach den einzelnen Impfzentren gefragt [URL]
+Die URL hierfür finden Sie auf 'impfterminservice.de'
