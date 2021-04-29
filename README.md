@@ -38,9 +38,13 @@ Jetzt können Sie die Tabs wieder öffnen und im Tab, der den Alarm ausgelöst h
 mit der Sie sich verifizieren müssen. Hier bekommen Sie einen Vermittlungscode, der zu dieser Zeit einen freien Termin bekommt. \
 Falls Sie sich nicht rechtzeitig mit dem Code einen Termin beschaffen konnten, werden Sie sicher einen späteren bekommen.
 
-Ich hoffe, das erleichtert die aktuelle Corona-Lage etwas.
-Mit freundlichen Grüßen
+Ich hoffe, das erleichtert die aktuelle Corona-Lage etwas. 
+
+Mit freundlichen Grüßen \
 Lukas Z
-LukeProducts
+
+[![Build Status](https://user-images.githubusercontent.com/73026669/110617122-9c75ad00-8195-11eb-9ba5-422356072776.png)](https://github.com/LukeProducts)
+
+© Copyright by LukeProducts
 
 
