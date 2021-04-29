@@ -1,6 +1,6 @@
 # Impfterminchecker 
 Dieses Programm wird Ihre Suche nach einem freien Impftermin in Ihrem Bundesland erheblich erleichtern. \
-Alle 20 bis 30 Sekunden wird dabei auf eienen neuen, freien Terminen geprüft. 
+Alle 20 bis 30 Sekunden wird dabei auf neue, freie Termine geprüft. 
 
 # Installation 
 Zur Verwendung das Paket herunterladen und die Ausführbare Datei starten.
