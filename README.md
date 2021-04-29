@@ -28,5 +28,12 @@ Anzahl der zu checkenden Orte: 2 \
 Url des Ortes 1: https://002-iz.impfterminservice.de/impftermine/service?plz=70174 \
 Anzeigename Ort 1: Impfzentrum Stuttgart in der Liederhalle \
 Url des Ortes 2: https://005-iz.impfterminservice.de/impftermine/service?plz=70376 \
-Anzeigename Ort 2: Impfzentrum Stuttgart im Robert Bosch Krankenhaus \
+Anzeigename Ort 2: Impfzentrum Stuttgart im Robert Bosch Krankenhaus 
+
+Wenn Sie so weit sind, werden sich unterschiedlich viele Tabs öffnen (je nachdem, wie viele Impfzentren angegeben wurden). \
+Diese können Sie direkt minimieren, denn Sie bekommen Auskunft über den Status der Zentren in der Konsole, die sich zuvor geöffnet hat. \
+Ist nun ein Termin frei, wird Ihnen eine nachricht Ausgegeben "Impfstoff erhaeltlich!, \
+Impftermin frei [Ort]" und es ertönt ein Alarmton, den Sie mit der Taste ENTER "ENTER UM ALARM ZU STOPPEN" stoppen können. \
+Jetzt können Sie die Tabs wieder öffnen und im Tab, der den Alarm ausgelöst hat, sehen Sie nun ein Eigabefeld für eine E-Mail und eine Handynummer, \
+mit der Sie sich verifizieren müssen. Hier bekommen Sie einen Vermittlungscode, der zu dieser Zeit einen freien Termin bekommt.
 
