@@ -25,8 +25,8 @@ Beispiel:
 
 Alter der Person: 45\
 Anzahl der zu checkenden Orte: 2\
-Url des Ortes 1: https://002-iz.impfterminservice.de/impftermine/service?plz=70174
-Anzeigename Ort 1: Impfzentrum Stuttgart in der Liederhalle
-Url des Ortes 2: https://005-iz.impfterminservice.de/impftermine/service?plz=70376
-Anzeigename Ort 2: Impfzentrum Stuttgart im Robert Bosch Krankenhaus
+Url des Ortes 1: https://002-iz.impfterminservice.de/impftermine/service?plz=70174\
+Anzeigename Ort 1: Impfzentrum Stuttgart in der Liederhalle\
+Url des Ortes 2: https://005-iz.impfterminservice.de/impftermine/service?plz=70376\
+Anzeigename Ort 2: Impfzentrum Stuttgart im Robert Bosch Krankenhaus\
 
