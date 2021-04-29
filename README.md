@@ -14,4 +14,4 @@ Im Folgenden wollen wir wissen, auf wie vielen Impfzentren zur gleichen Zeit gsu
 Dies macht das Programm auch so effizient.
 
 Sie werden nun einzeln nach den einzelnen Impfzentren gefragt [URL]
-Die URL hierfür finden Sie auf 'impfterminservice.de'
+Die URL hierfür finden Sie auf 'https://impfterminservice.de'
