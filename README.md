@@ -3,7 +3,7 @@ Dieses Programm wird Ihre Suche nach einem freien Impftermin in Ihrem Bundesland
 Alle 20 bis 30 Sekunden wird dabei auf neue, freie Termine geprüft. 
 
 # Installation 
-Zur Verwendung das Paket herunterladen und die Ausführbare Datei starten.
+Zur Verwendung das Paket herunterladen und die Ausführbare Datei mit doppelclick oder über die Konsole starten.
 
 # Verwendung 
 Zu Beginn werden Sie nach dem Alter der aktuellen Person, nach der Sie prüfen, gefragt. \
@@ -37,6 +37,10 @@ Impftermin frei [Ort]" und es ertönt ein Alarmton, den Sie mit der Taste ENTER 
 Jetzt können Sie die Tabs wieder öffnen und im Tab, der den Alarm ausgelöst hat, sehen Sie nun ein Eigabefeld für eine E-Mail und eine Handynummer, 
 mit der Sie sich verifizieren müssen. Hier bekommen Sie einen Vermittlungscode, der zu dieser Zeit einen freien Termin bekommt. \
 Falls Sie sich nicht rechtzeitig mit dem Code einen Termin beschaffen konnten, werden Sie sicher einen späteren bekommen.
+
+ACHTUNG:
+Benutzen Sie in der Eingabe möglichst kein Buchstaben "ä, ö, ü", sondern die gängigen Ausweichskombinationen "ae, oe, oder ue", \
+da es sonnst zu Programmabstürzen kommen kann.
 
 Ich hoffe, das erleichtert die aktuelle Corona-Lage etwas. 
 
