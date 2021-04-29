@@ -20,9 +20,12 @@ Sie werden auf eine weitere Website weitergeleitet.
 Diese URL muss nun kopiert und in das Programm eingetragen werden.
 Nun wird noch gefragt, wie der Anzeigename des Ortes lautet.
 Dies ist lediglich der Name, der im Späteren in der Konsole zur Information angezeigt wird.
+
 Beispiel: 
-Alter der Person: 45
+
+Alter der Person: 45\n
 Anzahl der zu checkenden Orte: 2
 Url des Ortes 1: https://002-iz.impfterminservice.de/impftermine/service?plz=70174
-
+Anzeigename Ort 1: Impfzentrum Stuttgart in der Liederhalle
+Url des Ortes 2:
 
