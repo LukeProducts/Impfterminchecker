@@ -41,7 +41,9 @@ Falls Sie sich nicht rechtzeitig mit dem Code einen Termin beschaffen konnten, w
 
 ACHTUNG:
 Benutzen Sie in der Eingabe möglichst kein Buchstaben "ä, ö, ü", sondern die gängigen Ausweichskombinationen "ae, oe, oder ue", \
-da es sonst zu Programmabstürzen kommen kann.
+da es sonst zu Programmabstürzen kommen kann. \
+Machen Sie sich keine Sorgen, wenn Errormeldungen auf der Konsole erscheinen, es würden Plugins fehlen, \
+denn das Programm läuft ohne Absturz weiter.
 
 Ich hoffe, das erleichtert die aktuelle Corona-Lage etwas. 
 
