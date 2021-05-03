@@ -4,7 +4,7 @@ Alle 20 bis 30 Sekunden wird dabei auf neue, freie Termine geprüft.
 
 # Installation 
 Zur Verwendung das Paket herunterladen und die Ausführbare Datei mit doppelclick oder über die Konsole starten. \
-Leider noch kein Support für Apple Geräte.
+Apple-Software wird leider noch nicht unterstützt.
 
 # Verwendung 
 Zu Beginn werden Sie nach dem Alter der aktuellen Person, nach der Sie prüfen, gefragt. \
