@@ -3,7 +3,8 @@ Dieses Programm wird Ihre Suche nach einem freien Impftermin in Ihrem Bundesland
 Alle 20 bis 30 Sekunden wird dabei auf neue, freie Termine geprüft. 
 
 # Installation 
-Zur Verwendung das Paket herunterladen und die Ausführbare Datei mit doppelclick oder über die Konsole starten. \
+Zur Verwendung das Paket herunterladen, falls Sie die Dateien nicht clonen, sondern als .zip herunterladen, \
+unbedingt noch extrahieren und die Ausführbare Datei mit  doppelclick oder über die Konsole starten. \
 Apple-Software wird leider noch nicht unterstützt.
 
 # Verwendung 
