@@ -1,5 +1,5 @@
 
-<a href="#" style="color:green;">Hello</a>
+
 
 # Impfterminchecker
 Dieses Programm wird Ihre Suche nach einem freien Impftermin in Ihrem Bundesland erheblich erleichtern. \
