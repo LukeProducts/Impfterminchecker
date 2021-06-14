@@ -1,7 +1,7 @@
 
 
 
-<p style="background-color: green;"># Impfterminchecker </p>
+# Impfterminchecker
 Dieses Programm wird Ihre Suche nach einem freien Impftermin in Ihrem Bundesland erheblich erleichtern. \
 Alle 20 bis 30 Sekunden wird dabei auf neue, freie Termine geprüft. 
 
